@@ -1,4 +1,4 @@
-#👋 Hi, I’m Newton Orina
+👋 Hi, I’m Newton Orina
 
 I’m a Junior Software Developer & UI/UX Designer passionate about building modern, scalable, and user-friendly web applications.
 
@@ -20,7 +20,7 @@ I’m a Junior Software Developer & UI/UX Designer passionate about building mod
 ![](https://github-profile-trophy.vercel.app/?username=Ongeri123&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-!"First, solve the problem. Then, write the code." – John Johnson
+"First, solve the problem. Then, write the code." – John Johnson
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ongeri123&limit=5&theme=dark&combine_all_yearly_contributions=true)
