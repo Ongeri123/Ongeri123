@@ -1,6 +1,6 @@
-👋 Hi, I’m Newton Orina
+👋 Hi, I’m Newton Ongeri Orina 
 
-I’m a Junior Software Developer & UI/UX Designer passionate about building modern, scalable, and user-friendly web applications.
+I’m a junior software developer and UI/UX Designer passionate about building modern, scalable, and user-friendly web applications.
 
 # 💫 About Me:
 🔭 I’m currently working on building interactive web applications using React, JavaScript, and Python for backend services.<br>👯 I’m looking to collaborate on open source projects, full-stack web applications, and API integrations using modern web technologies.<br>🤝 I’m looking for help with best practices for scalable backend architecture, database optimization, and React performance tuning.<br>🌱 I’m currently learning advanced JavaScript concepts, React hooks & state management, Python for data processing, and SQL performance optimization.<br>💬 Ask me about Frontend development(React, HTML, CSS), JavaScript best practices, and connecting Python backends with SQL databases.<br>⚡ Fun fact: I love turning ideas into code and optimizing apps for speed and usability, and I can spend hours fixing a bug just for the thrill of the solution
